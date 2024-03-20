@@ -13,7 +13,7 @@ It provides two main options: one for customers and another for shopkeepers.
 - BUY any product
 - RETURN product
 
--<pre> Commonly any one can see list of available procducts </pre>
+<pre> Commonly any one can see list of available procducts </pre>
 
 
 ## Database Connection Setup
